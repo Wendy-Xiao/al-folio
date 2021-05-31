@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-09-11-
 inline: true
 ---
+One paper is accepted at AACL 2020. 
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
