@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-08-23-
 inline: true
 ---
+One paper is accepted at EMNLP 2019.
 
-A simple inline announcement.
