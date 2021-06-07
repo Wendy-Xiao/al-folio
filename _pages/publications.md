@@ -11,7 +11,7 @@ nav: true
     <h2 class="year">2021</h2>
     <b><a href='https://www.aclweb.org/anthology/2021.naacl-main.326/'>
 Predicting Discourse Trees from Transformer-based Neural Summarizers</a></b><br>
-    <u>Wen Xiao</u>, Patrick Huber  and  Giuseppe Carenini. <i>NAACL 2021</i>. <a >[Code]</a> <a>[Slides]</a> <a>[Presentation]</a>
+    <u>Wen Xiao</u>, Patrick Huber  and  Giuseppe Carenini. <i>NAACL 2021</i>. <a href=''>[Code]</a> <a href='../files/NAACL_slides.pdf'>[Slides]</a> <a href='../files/NAACL_poster.pdf'>[Presentation]</a>
     <br>
     <b><a href='https://www.aclweb.org/anthology/2021.deelio-1.10/'>
 KW-ATTN: Knowledge Infused Attention for Accurate and Interpretable Text Classification </a></b><br>
