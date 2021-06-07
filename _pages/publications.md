@@ -11,12 +11,12 @@ nav: true
     <h2 class="year">2021</h2>
     <b><a href=''>
 W-RST: Towards a Weighted RST-style Discourse Framework</a></b><br>
-    Patrick Huber\*, <u>Wen Xiao</u>\*  and  Giuseppe Carenini. <i>ACL 2021</i>. <a>[Code]</a> <a>[Slides]</a> <a>[Poster]</a>
+    Patrick Huber*, <u>Wen Xiao</u>*  and  Giuseppe Carenini. <i>ACL 2021</i>. <a>[Code]</a> <a>[Slides]</a> <a>[Poster]</a>
     <br>
 
     <b><a href='https://arxiv.org/abs/2105.14241'>
 Demoting the Lead Bias in News Summarization via Alternating Adversarial Learning</a></b><br>
-    Linzi Xing\*, <u>Wen Xiao</u>\*  and  Giuseppe Carenini. <i>ACL 2021</i>. <a>[Code]</a> <a>[Slides]</a> <a>[Poster]</a>
+    Linzi Xing*, <u>Wen Xiao</u>*  and  Giuseppe Carenini. <i>ACL 2021</i>. <a>[Code]</a> <a>[Slides]</a> <a>[Poster]</a>
     <br>
 
     <b><a href='https://www.aclweb.org/anthology/2021.naacl-main.326/'>
