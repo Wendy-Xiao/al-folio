@@ -9,9 +9,19 @@ nav: true
 
 <div class="publications">
     <h2 class="year">2021</h2>
+    <b><a href=''>
+W-RST: Towards a Weighted RST-style Discourse Framework</a></b><br>
+    Patrick Huber\*, <u>Wen Xiao</u>\*  and  Giuseppe Carenini. <i>ACL 2021</i>. <a>[Code]</a> <a>[Slides]</a> <a>[Poster]</a>
+    <br>
+
+    <b><a href='https://arxiv.org/abs/2105.14241'>
+Demoting the Lead Bias in News Summarization via Alternating Adversarial Learning</a></b><br>
+    Linzi Xing\*, <u>Wen Xiao</u>\*  and  Giuseppe Carenini. <i>ACL 2021</i>. <a>[Code]</a> <a>[Slides]</a> <a>[Poster]</a>
+    <br>
+
     <b><a href='https://www.aclweb.org/anthology/2021.naacl-main.326/'>
 Predicting Discourse Trees from Transformer-based Neural Summarizers</a></b><br>
-    <u>Wen Xiao</u>, Patrick Huber  and  Giuseppe Carenini. <i>NAACL 2021</i>. <a href=''>[Code]</a> <a href='../files/NAACL_slides.pdf'>[Slides]</a> <a href='../files/NAACL_poster.pdf'>[Presentation]</a>
+    <u>Wen Xiao</u>, Patrick Huber  and  Giuseppe Carenini. <i>NAACL 2021</i>. <a href='https://github.com/Wendy-Xiao/summ_guided_disco_parser'>[Code]</a> <a href='../files/NAACL_slides.pdf'>[Slides]</a> <a href='../files/NAACL_poster.pdf'>[Poster]</a>
     <br>
     <b><a href='https://www.aclweb.org/anthology/2021.deelio-1.10/'>
 KW-ATTN: Knowledge Infused Attention for Accurate and Interpretable Text Classification </a></b><br>
