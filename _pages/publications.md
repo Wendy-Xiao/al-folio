@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My publications listed in reverse order
 years: [2021,2020,2019,2017]
 nav: true
 ---
